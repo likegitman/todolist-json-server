@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "오늘은 NEXT",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "text": "리덕스",
+      "isDone": true
+    },
+    {
+      "text": "안녕안녕",
+      "isDone": false,
+      "id": 3
+    },
+    {
+      "text": "ㅇ니ㅓㄴ일",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "text": "아론이 궁디 때리기",
+      "isDone": false,
+      "id": 8
+    }
+  ]
+}
